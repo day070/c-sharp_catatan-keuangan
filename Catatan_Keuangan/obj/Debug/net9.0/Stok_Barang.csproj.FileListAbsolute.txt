@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Stok_Barang\Stok_Barang\bin\Debug\net9.0\Stok_Barang.exe
+C:\Users\User\source\repos\Stok_Barang\Stok_Barang\bin\Debug\net9.0\Stok_Barang.deps.json
+C:\Users\User\source\repos\Stok_Barang\Stok_Barang\bin\Debug\net9.0\Stok_Barang.runtimeconfig.json
+C:\Users\User\source\repos\Stok_Barang\Stok_Barang\bin\Debug\net9.0\Stok_Barang.dll
+C:\Users\User\source\repos\Stok_Barang\Stok_Barang\bin\Debug\net9.0\Stok_Barang.pdb
+C:\Users\User\source\repos\Stok_Barang\Stok_Barang\obj\Debug\net9.0\Stok_Barang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Stok_Barang\Stok_Barang\obj\Debug\net9.0\Stok_Barang.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Stok_Barang\Stok_Barang\obj\Debug\net9.0\Stok_Barang.AssemblyInfo.cs
+C:\Users\User\source\repos\Stok_Barang\Stok_Barang\obj\Debug\net9.0\Stok_Barang.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Stok_Barang\Stok_Barang\obj\Debug\net9.0\Stok_Barang.dll
+C:\Users\User\source\repos\Stok_Barang\Stok_Barang\obj\Debug\net9.0\refint\Stok_Barang.dll
+C:\Users\User\source\repos\Stok_Barang\Stok_Barang\obj\Debug\net9.0\Stok_Barang.pdb
+C:\Users\User\source\repos\Stok_Barang\Stok_Barang\obj\Debug\net9.0\Stok_Barang.genruntimeconfig.cache
+C:\Users\User\source\repos\Stok_Barang\Stok_Barang\obj\Debug\net9.0\ref\Stok_Barang.dll
